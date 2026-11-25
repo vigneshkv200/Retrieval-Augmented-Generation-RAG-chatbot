@@ -1,8 +1,4 @@
-# 📋 Professional GitHub `README.md` for Your Project
 
-You can copy the markdown block below and save it as `README.md` in your GitHub repository root directory:
-
-```markdown
 # Indian Industries Association (IIA) HR Policy Assistant
 
 An end-to-end, production-grade **Retrieval-Augmented Generation (RAG) Chatbot** engineered to query, extract, and reference policies from the dense 47-page official **IIA Employee Manual**. Built with LangChain, FAISS, Sentence-Transformers, and Google Gemini, this system features a rigorous evaluation suite utilizing the **RAGAS** framework and custom **LLM-as-Judge** parameters.
@@ -95,4 +91,3 @@ We benchmarked multiple chunking strategies to optimize the vector search space:
    from model_setup import chat_cli
    chat_cli()
    ```
-```
